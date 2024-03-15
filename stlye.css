@@ -7,3 +7,7 @@
 .coxa-imagem {
     width:20%;
 }
+
+.coxa-lista-item{
+    display: inline-block;
+}
