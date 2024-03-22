@@ -13,7 +13,7 @@
     width:20%;
 }
 
-    .coxa-lista-item
+    .coxa-lista-item{
     display: inline-block;
     margin: 0 16px;
-    
+    }
