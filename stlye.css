@@ -7,6 +7,7 @@
     background-color: rgb(42, 216, 120);
     color: aliceblue;
     display: flex;
+    justify-content: space-around;
 }
 
 .coxa-imagem {
