@@ -4,7 +4,7 @@
 }
 
 .coxa{
-    background-color:#FFFFFF;
+    background-color:#76fa4e;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -22,5 +22,7 @@
     }
     .estádio-imagem{
         width: 35%;
-        color: black;
+    }
+    .estádio{
+        background-image:linear-gradient();
     }
