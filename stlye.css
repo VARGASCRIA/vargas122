@@ -8,8 +8,9 @@
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
-    vertical-align: center;
-    
+    padding: 24px 0 ;
+    align-items: center;
+
 }
 
 .coxa-imagem {
@@ -20,7 +21,6 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-    vertical-align: center;
     }
     .estádio-imagem{
         width: 35%;
