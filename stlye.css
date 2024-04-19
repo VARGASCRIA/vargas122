@@ -3,27 +3,45 @@
     padding: 0%;
 }
 
-.coxa{
+.cabecalho{
     background-color:#76fa4e;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    background-image:linear-gradient(#000000,#76fa4e)
 }
 
-.coxa-imagem {
+.cabecalho-imagem {
     width:10%;
 }
 
-    .coxa-lista-item{
+    .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
     }
-    .estádio-imagem{
+
+    .coxa-imagem{
         width: 35%;
     }
     .coxa{
-        background-image:linear-gradient(#000000,#76fa4e)
+        background-image: linear-gradient(#424E61,rgb(34, 31, 49));
+        color:white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 24px;
+        font-size:150%; 
+    }
+
+    .coxa-titulo{
+        padding: 24px 0;
+        text-align: center;    
+    }
+
+    .coxa-div-conteudo{
+        width: 45%;
+    
+      
     }
