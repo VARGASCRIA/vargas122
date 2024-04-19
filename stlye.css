@@ -26,7 +26,7 @@
         width: 35%;
     }
     .coxa{
-        background-image: linear-gradient(#1f5749,rgb(13, 163, 143));
+        background-image: linear-gradient(#000000,#76fa4e));
         color:white;
         display: flex;
         justify-content: center;
